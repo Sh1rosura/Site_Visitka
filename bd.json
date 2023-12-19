@@ -1,0 +1,30 @@
+[
+{
+"SerialNumber":"1712150004",
+"Coordinate1":"14.626366",
+"Coordinate2":"121.007355",
+"DateTime":"2018-05-07 11:28:02",
+"Speed":"0", "Port":9090
+},
+{
+"SerialNumber":"1712150004",
+"Coordinate1":"14.62634636",
+"Coordinate2":"121.007355",
+"DateTime":"2018-05-07 11:28:02",
+"Speed":"0", "Port":9090
+},
+{
+"SerialNumber":"1712150004",
+"Coordinate1":"14.6266546",
+"Coordinate2":"121.007355",
+"DateTime":"2018-05-07 11:28:02",
+"Speed":"0", "Port":9090
+},
+{
+"SerialNumber":"1712150004",
+"Coordinate1":"14.62634565",
+"Coordinate2":"121.007355",
+"DateTime":"2018-05-07 11:28:02",
+"Speed":"0", "Port":9090
+}
+]
